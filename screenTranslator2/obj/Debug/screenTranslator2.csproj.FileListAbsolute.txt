@@ -1,0 +1,10 @@
+D:\programing\CSharp\screenTranslator2\screenTranslator2\bin\Debug\screenTranslator2.exe.config
+D:\programing\CSharp\screenTranslator2\screenTranslator2\bin\Debug\screenTranslator2.exe
+D:\programing\CSharp\screenTranslator2\screenTranslator2\bin\Debug\screenTranslator2.pdb
+D:\programing\CSharp\screenTranslator2\screenTranslator2\obj\Debug\screenTranslator2.csprojAssemblyReference.cache
+D:\programing\CSharp\screenTranslator2\screenTranslator2\obj\Debug\screenTranslator2.Properties.Resources.resources
+D:\programing\CSharp\screenTranslator2\screenTranslator2\obj\Debug\screenTranslator2.csproj.GenerateResource.cache
+D:\programing\CSharp\screenTranslator2\screenTranslator2\obj\Debug\screenTranslator2.csproj.CoreCompileInputs.cache
+D:\programing\CSharp\screenTranslator2\screenTranslator2\obj\Debug\screenTranslator2.exe
+D:\programing\CSharp\screenTranslator2\screenTranslator2\obj\Debug\screenTranslator2.pdb
+D:\programing\CSharp\screenTranslator2\screenTranslator2\obj\Debug\screenTranslator2.form.resources
