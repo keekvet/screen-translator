@@ -47,7 +47,7 @@
             this.ipTB.Name = "ipTB";
             this.ipTB.Size = new System.Drawing.Size(100, 20);
             this.ipTB.TabIndex = 0;
-            this.ipTB.Text = "192.168.0.103";
+            this.ipTB.Text = "235.5.5.11";
             this.ipTB.WordWrap = false;
             // 
             // clientCheck
@@ -96,7 +96,7 @@
             // 
             // screenShotTimer
             // 
-            this.screenShotTimer.Interval = 200;
+            this.screenShotTimer.Interval = 300;
             this.screenShotTimer.Tick += new System.EventHandler(this.ScreenShotTimer_Tick);
             // 
             // statLabel
@@ -118,7 +118,7 @@
             // 
             // timerGet
             // 
-            this.timerGet.Interval = 200;
+            this.timerGet.Interval = 300;
             this.timerGet.Tick += new System.EventHandler(this.TimerGet_Tick);
             // 
             // form
