@@ -12,6 +12,8 @@ namespace screenTranslator2
 {
     class ImageHandler
     {
+        Image image;
+        Image lastImag;
         public Bitmap ImageToSend(ref byte[] bytes)
         {
 
@@ -20,7 +22,7 @@ namespace screenTranslator2
             Graphics g = Graphics.FromImage(bitmap);
             g.CopyFromScreen(Point.Empty, Point.Empty, bounds.Size);
 
-            bitmap = new Bitmap(bitmap, 600, 400);
+            bitmap = new Bitmap(bitmap, 1440, 900);
 
             using (var ms = new MemoryStream())
             {
@@ -32,10 +34,27 @@ namespace screenTranslator2
         }
         public Image GetImage(byte[] bytes)
         {
-            var ms = new MemoryStream(bytes);
-            ms.Position = 0;
-
-            return Image.FromStream(ms); 
+            if (bytes != null)
+            {
+                var ms = new MemoryStream(bytes);
+                ms.Position = 0;
+                try
+                {
+                    image = Image.FromStream(ms);
+                    lastImag = image;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("iamge skipped");
+                    image = lastImag;
+                }
+            }
+            if (image == null)
+            {
+                image = new Bitmap(200, 200);
+            }
+            
+            return image; 
         }
     }
 }

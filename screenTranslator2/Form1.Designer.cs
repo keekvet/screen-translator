@@ -96,7 +96,7 @@
             // 
             // screenShotTimer
             // 
-            this.screenShotTimer.Interval = 300;
+            this.screenShotTimer.Interval = 200;
             this.screenShotTimer.Tick += new System.EventHandler(this.ScreenShotTimer_Tick);
             // 
             // statLabel
@@ -118,7 +118,7 @@
             // 
             // timerGet
             // 
-            this.timerGet.Interval = 300;
+            this.timerGet.Interval = 50;
             this.timerGet.Tick += new System.EventHandler(this.TimerGet_Tick);
             // 
             // form
