@@ -18,3 +18,13 @@ C:\Users\Ihor\Documents\GitHub\screenTranslator\screenTranslator2\obj\Debug\scre
 C:\Users\Ihor\Documents\GitHub\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.csproj.CoreCompileInputs.cache
 C:\Users\Ihor\Documents\GitHub\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.exe
 C:\Users\Ihor\Documents\GitHub\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.pdb
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\bin\Debug\screenTranslator2.exe.config
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\bin\Debug\screenTranslator2.exe
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\bin\Debug\screenTranslator2.pdb
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.csprojAssemblyReference.cache
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.form.resources
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.Properties.Resources.resources
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.csproj.GenerateResource.cache
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.csproj.CoreCompileInputs.cache
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.exe
+C:\Users\Andru\Downloads\screenTranslator\screenTranslator2\obj\Debug\screenTranslator2.pdb

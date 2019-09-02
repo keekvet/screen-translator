@@ -31,7 +31,6 @@ namespace screenTranslator2
             int len = arr.Length;
             packCount = (len / PACK_LEN) + 1;
             lenInByte[0] = (byte)packCount;
-            //Console.WriteLine(packCount);
             if (max < packCount)
             {
                 max = packCount;
